@@ -1,7 +1,8 @@
-I don't really know what to be saying here. Also, go Knicks.
-
-Let's make this into a story. 
-
 Once upon a time there was a programmer. But he didn't ever use git! After all,
-he was a good programmer and didn't need to. He lived happily ever after,
-without ever needing git.
+he was a good programmer and didn't need to. 
+
+But one day, he made a mistake and wrote buggy code. He searched for hours for
+his bug, but couldn't figure it out
+
+Unfortunately he had to start from the beginning and rewrite all his code. If
+only he'd been using git and committing regularly!
