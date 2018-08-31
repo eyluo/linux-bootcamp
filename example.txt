@@ -1,7 +1,8 @@
-I don't really know what to be saying here. Also, go Knicks.
+Once upon a time there was a good programmer who used git. He committed
+regularly and wrote useful messages.
 
-Let's make this into a story. 
+One day, he wrote buggy code! But thankfully he was able to reset to an
+earlier commit. Instead of having to rewrite his entire project, he was
+able to just restart the buggy feature.
 
-Once upon a time there was a programmer. But he didn't ever use git! After all,
-he was a good programmer and didn't need to. He lived happily ever after,
-without ever needing git.
+He finished his assignment on time and got a 100!
