@@ -1,9 +1,7 @@
 I don't really know what to be saying here. Also, go Knicks.
 
-Let's make this into a story. Here's the intro:
+Let's make this into a story. 
 
-
-Here's the middle:
-
-
-Here's a conclusion.
+Once upon a time there was a programmer. But he didn't ever use git! After all,
+he was a good programmer and didn't need to. He lived happily ever after,
+without ever needing git.
